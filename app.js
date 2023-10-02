@@ -1,6 +1,6 @@
 // declare and define function
-function TextDecoderStream() {
-    console.log("test")
+function test(mess) {
+    console.log("mess")
 }
-//run the function
+//outputs anything in the parameters
 test();
