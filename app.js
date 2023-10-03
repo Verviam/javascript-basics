@@ -1,6 +1,6 @@
-// declare and define function
-function test(mess) {
-    console.log(mess);
+// declare and define function; needs parameter set inside 
+function test(a) {
+    console.log(a);
 }
 
 test(true);
